@@ -1,1 +1,1 @@
-# CodeVerse-Imagine
+# CodeVerse-Imagine Cup
